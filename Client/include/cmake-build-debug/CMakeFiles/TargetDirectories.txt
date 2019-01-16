@@ -1,0 +1,3 @@
+/users/studs/bsc/2016/snirco/ClionProjects/client/include/cmake-build-debug/CMakeFiles/edit_cache.dir
+/users/studs/bsc/2016/snirco/ClionProjects/client/include/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/users/studs/bsc/2016/snirco/ClionProjects/client/include/cmake-build-debug/CMakeFiles/include.dir
